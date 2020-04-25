@@ -1,5 +1,6 @@
 // Assignment1.java
 // The goal of this was to implement strassen's algorithm.
+// By: Austin Teshuba 251003742
 
 import java.io.*;
 import java.util.Scanner;
